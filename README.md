@@ -1,5 +1,5 @@
 # Data Warehouse Tool Suite
-Data warehouse project of a school system.
+![image](https://user-images.githubusercontent.com/28197002/168483520-bb6d9ab2-79ff-4a33-a51d-66c022fe2df0.png)
 
 ## Tools: 
 - Data Faker and Fabrication Tool
