@@ -1,0 +1,36 @@
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\bin\Debug\Creator_Fabricator.exe.config
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\bin\Debug\Creator_Fabricator.exe
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\bin\Debug\Creator_Fabricator.pdb
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\bin\Debug\MaterialSkin.dll
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csprojAssemblyReference.cache
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.Form1.resources
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.Properties.Resources.resources
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.GenerateResource.cache
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.CoreCompileInputs.cache
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.CopyComplete
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.exe
+C:\Users\OmarQazi\source\repos\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.pdb
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\bin\Debug\Creator_Fabricator.exe.config
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\bin\Debug\Creator_Fabricator.exe
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\bin\Debug\Creator_Fabricator.pdb
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\bin\Debug\MaterialSkin.dll
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csprojAssemblyReference.cache
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.Form1.resources
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.Properties.Resources.resources
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.GenerateResource.cache
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.CoreCompileInputs.cache
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.CopyComplete
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.exe
+D:\toLaptop\WorkArea\Creator_Fabricator\Creator_Fabricator\obj\Debug\Creator_Fabricator.pdb
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\bin\Debug\Creator_Fabricator.exe.config
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\bin\Debug\Creator_Fabricator.exe
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\bin\Debug\Creator_Fabricator.pdb
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\bin\Debug\MaterialSkin.dll
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.csprojAssemblyReference.cache
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.Form1.resources
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.Properties.Resources.resources
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.GenerateResource.cache
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.CoreCompileInputs.cache
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.csproj.CopyComplete
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.exe
+C:\Users\OmarQazi\Documents\C# Projects\Creator_Fabricator_Destroyer\Creator_Fabricator\obj\Debug\Creator_Fabricator.pdb

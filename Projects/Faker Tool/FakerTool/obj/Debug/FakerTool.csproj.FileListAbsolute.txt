@@ -1,0 +1,57 @@
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\FakerTool.exe.config
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\FakerTool.exe
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\FakerTool.pdb
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\Bogus.dll
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\Faker.NET45.dll
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\Bogus.pdb
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\Bogus.xml
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\bin\Debug\de-DE\Faker.NET45.resources.dll
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.csprojAssemblyReference.cache
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.Form1.resources
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.Properties.Resources.resources
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.csproj.GenerateResource.cache
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.csproj.CoreCompileInputs.cache
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.csproj.CopyComplete
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.exe
+C:\Users\OmarQazi\source\repos\FakerTool\FakerTool\obj\Debug\FakerTool.pdb
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\AdonisUI.ClassicTheme.dll
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\AdonisUI.dll
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\Bogus.dll
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\Faker.NET45.dll
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\MaterialSkin.dll
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\Bogus.pdb
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\Bogus.xml
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\de-DE\Faker.NET45.resources.dll
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FakerTool.csprojAssemblyReference.cache
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FakerTool.Form1.resources
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FakerTool.csproj.GenerateResource.cache
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FakerTool.csproj.CoreCompileInputs.cache
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FakerTool.csproj.CopyComplete
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\FF_Tool.exe.config
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\FF_Tool.exe
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\bin\Debug\FF_Tool.pdb
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FF_Tool.Properties.Resources.resources
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FF_Tool.exe
+C:\Users\OmarQazi\source\repos\FakerTool 2\FakerTool\obj\Debug\FF_Tool.pdb
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\FF_Tool.exe.config
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\FF_Tool.exe
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\FF_Tool.pdb
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\AdonisUI.ClassicTheme.dll
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\AdonisUI.dll
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\Bogus.dll
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\Faker.NET45.dll
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\FizzWare.NBuilder.dll
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\MaterialSkin.dll
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\Bogus.pdb
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\Bogus.xml
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\bin\Debug\de-DE\Faker.NET45.resources.dll
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FakerTool.csprojAssemblyReference.cache
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FakerTool.Form1.resources
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FF_Tool.Properties.Resources.resources
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FakerTool.csproj.GenerateResource.cache
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FakerTool.csproj.CoreCompileInputs.cache
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FakerTool.csproj.CopyComplete
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FF_Tool.exe
+D:\toLaptop\WorkArea\FakerTool 2\FakerTool\obj\Debug\FF_Tool.pdb
