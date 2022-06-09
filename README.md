@@ -66,6 +66,6 @@ I wanted to make an analysis tool myself therefore I wanted a schema that had th
 
 
 # Contact Me
-[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483020-654368df-acf9-4ce3-a46c-9cd6942856fd.png" />](twitter.com/omarqazidev)
-[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483094-a5bcd04a-8390-4d49-8a71-4bc0c648da54.png" />](linkedin.com/in/omarqazidev)
+[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483020-654368df-acf9-4ce3-a46c-9cd6942856fd.png" />](www.twitter.com/omarqazidev)
+[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483094-a5bcd04a-8390-4d49-8a71-4bc0c648da54.png" />](www.linkedin.com/in/omarqazidev)
 [<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483231-a85ab431-b5f5-4ccc-afce-12d687e3451b.png" />](mailto:omarqazidev@gmail.com)
