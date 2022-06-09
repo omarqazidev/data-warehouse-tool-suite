@@ -63,9 +63,13 @@ I wanted to make an analysis tool myself therefore I wanted a schema that had th
 
 ![image](https://user-images.githubusercontent.com/28197002/168483625-60f8fa31-e07f-4601-a687-8a0063ab53ae.png)
 
+---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/omarqazidev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/28197002/168483094-a5bcd04a-8390-4d49-8a71-4bc0c648da54.png" alt="https://linkedin.com/in/omarqazidev" height="30" width="30" /></a>
+<a href="https://twitter.com/omarqazidev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/28197002/168483020-654368df-acf9-4ce3-a46c-9cd6942856fd.png" alt="https://twitter.com/omarqazidev" height="30" width="30" /></a>
+<a href="https://dev.to/omarqazidev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/28197002/172779487-098198e4-fdb6-4b27-aa10-12c5b22428eb.png" alt="omarqazidev" height="30" width="30" /></a>
+<a href="mailto:omarqazidev@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/28197002/168483231-a85ab431-b5f5-4ccc-afce-12d687e3451b.png" alt="omarqazidev" height="30" width="30" /></a>
+</p>
 
-# Contact Me
-[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483094-a5bcd04a-8390-4d49-8a71-4bc0c648da54.png" />](https://www.linkedin.com/in/omarqazidev/)
-[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483020-654368df-acf9-4ce3-a46c-9cd6942856fd.png" />](https://twitter.com/omarqazidev)
-[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/28197002/168483231-a85ab431-b5f5-4ccc-afce-12d687e3451b.png" />](mailto:omarqazidev@gmail.com)
